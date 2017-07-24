@@ -1,0 +1,6 @@
+[submodule "ud851-Sunshine"]
+	path = ud851-Sunshine
+	url = git@github.com:rickyzhang82/ud851-Sunshine.git
+[submodule "ud851-Exercises"]
+	path = ud851-Exercises
+	url = git@github.com:rickyzhang82/ud851-Exercises.git
